@@ -15,6 +15,10 @@
 ### Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhshenoy&count_private=true)  
+
+### Coding platforms
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='dev' height='40'>](https://leetcode.com/lonewolf03_/)
  
 ### Reach me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/siddhshenoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='dev' height='40'>](https://sabiha.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/siddharth-s-shenoy/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/siddhshenoy) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/siddharth-s-shenoy/)
