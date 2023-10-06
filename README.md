@@ -18,8 +18,3 @@
  
 ### Reach me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/siddhshenoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='dev' height='40'>](https://sabiha.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/siddharth-s-shenoy/)
- 
------
-Credits: [Siddharth Satish Shenoy](https://github.com/Sabihashaik)
-
-Last Edited on: 30/11/2020
