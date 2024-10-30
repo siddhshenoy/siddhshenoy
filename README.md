@@ -5,12 +5,7 @@
 ### What I'm doing: 
  
 - 🔭 A self-starter, working on projects for a game mod named 'Grand Theft Auto: San Andreas Multiplayer' (GTA: SAMP).
-- 🌱 I’m currently learning Scala, Programming Patterns.
 - 👯 I’m looking to collaborate on Games and underlying Game Engines. 
-- 📫 How to reach me: siddh.shenoy@gmail.com
-
-
-
 
 ### Stats
 
